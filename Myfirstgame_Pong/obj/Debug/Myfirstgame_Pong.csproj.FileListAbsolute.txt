@@ -1,0 +1,11 @@
+C:\Users\danie\source\repos\Myfirstgame_Pong\Myfirstgame_Pong\bin\Debug\Myfirstgame_Pong.exe.config
+C:\Users\danie\source\repos\Myfirstgame_Pong\Myfirstgame_Pong\bin\Debug\Myfirstgame_Pong.exe
+C:\Users\danie\source\repos\Myfirstgame_Pong\Myfirstgame_Pong\bin\Debug\Myfirstgame_Pong.pdb
+C:\Users\danie\source\repos\Myfirstgame_Pong\Myfirstgame_Pong\bin\Debug\OpenTK.dll
+C:\Users\danie\source\repos\Myfirstgame_Pong\Myfirstgame_Pong\bin\Debug\OpenTK.pdb
+C:\Users\danie\source\repos\Myfirstgame_Pong\Myfirstgame_Pong\bin\Debug\OpenTK.xml
+C:\Users\danie\source\repos\Myfirstgame_Pong\Myfirstgame_Pong\obj\Debug\Myfirstgame_Pong.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Myfirstgame_Pong\Myfirstgame_Pong\obj\Debug\Myfirstgame_Pong.csproj.CopyComplete
+C:\Users\danie\source\repos\Myfirstgame_Pong\Myfirstgame_Pong\obj\Debug\Myfirstgame_Pong.exe
+C:\Users\danie\source\repos\Myfirstgame_Pong\Myfirstgame_Pong\obj\Debug\Myfirstgame_Pong.pdb
+C:\Users\danie\source\repos\Myfirstgame_Pong\Myfirstgame_Pong\obj\Debug\Myfirstgame_Pong.csproj.AssemblyReference.cache
